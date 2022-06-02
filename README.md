@@ -14,10 +14,15 @@ How to use:
   
  YM2609 FM Waveforms
 '@ '+ "OPS7Waves.gwi"
+
  0 - Sine (正弦波)
+ 
  1 - Sine Var 1 (正弦波 V1)
+ 
  2 - Sine Var 2 (正弦波 V2)
+ 
  3 - Sine Var 3 (正弦波 V3)
+ 
  4 - Half Sine (50%正弦波)
  5 - Half Sine Var 1 (50%正弦波 V1)
  6 - Half Sine Var 2 (50%正弦波 V2)
