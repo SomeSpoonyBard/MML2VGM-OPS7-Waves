@@ -13,7 +13,7 @@ How to use:
 	次に、「@ W」コマンドを使用して、特定のチャネルの4つのFM演算子のいずれかに非正弦波形を割り当てます。
   
  YM2609 FM Waveforms
-;'@ '+ "OPS7Waves.gwi"  (Commented out to prevent recursion when compiling) (コンパイル時の再帰を防ぐためにコメントアウト)
+'@ '+ "OPS7Waves.gwi"
  0 - Sine (正弦波)
  1 - Sine Var 1 (正弦波 V1)
  2 - Sine Var 2 (正弦波 V2)
