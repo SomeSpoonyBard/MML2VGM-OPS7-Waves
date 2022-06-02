@@ -1,7 +1,7 @@
 # MML2VGM-OPS7-Waves
 Waveform data taken from Chipsynth OPS7, for use in MML2VGM's YM2609 for FM synthesis
 
-Credit to kuma4649 for the original waveform generation code, which I altered to generate sine and TX-style triangle waves
+Credit to @kuma4649 for the original waveform generation code, which I altered to generate sine and TX-style triangle waves
 
 How to use:
 	Place this file in the same directory as your project file, and copy-paste the following
