@@ -30,8 +30,6 @@ Using the include command:
 	
   
  YM2609 FM Waveforms
- 
-'+ "OPS7Waves.gwi"
 
  0 - Sine (正弦波)
  
