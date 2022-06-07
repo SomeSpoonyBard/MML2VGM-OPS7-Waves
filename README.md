@@ -6,17 +6,26 @@ as well as giving feedback for my Japanese translation
 
 
 Using the include command:
+
     ・Format as: '+ "Filename"
+    
         For the filename, specify the full path to the file you wish to import.
+	
         If only the filename is specified, then the file must be in the same directory as the .gwi file.
     
 
 インクルード
+
     ・書式
+    
     「'+ "ファイル名"」
+    
       ファイル名
+      
         インクルード(取り込む)するファイル名を指定。
+	
         フルパスで指定する。
+	
         ファイル名のみの場合は.gwiファイルと同じ場所のファイルを指定したことになる。
 	
   
